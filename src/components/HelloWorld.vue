@@ -1,6 +1,18 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+
+    <div>
+      <p>
+        Demonstração da utilização da biblioteca de ícones <a href="https://fontawesome.com/icons?d=gallery" target="_blank">Font Awesome</a>
+      </p>
+      <h1>
+        <i class="fab fa-earlybirds"></i> &nbsp;&nbsp; <i class="fab fa-vuejs"></i>
+      </h1>
+      <i class="fab fa-earlybirds"></i> &nbsp;&nbsp; <i class="fab fa-vuejs"></i>
+
+    </div>
+
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
